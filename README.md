@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A passionate backend and frontend developer from Italy</h3>
+<h3 align="center">A passionate backend developer from Italy</h3>
 
-- 🔭 I’m currently an ICT Student at **ITIS C.Zuccante (VE)**
+- 🔭 I’m currently studying computer science at **Università Ca' Foscari Venezia**
 
-- 🌱 I’m currently learning **Node.JS, Swift and Docker**
+- 👨‍💻 I'm currently working as Backend/DevOps developer at **Danfoss**
+
+- 🌱 I’m currently learning **Kubernetes and GitOps/Deployment tools**
 
 - 👯 I’m looking to collaborate with people on **backend and Flutter frontend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaspi/](https://github.com/diegocaspi/)
 
-- 💬 Ask me about **Flutter (Dart)**
-
 - 📫 How to reach me **diegocaspi2002@gmail.com**
 
 - 📄 Know about my experiences writing at my email [diegocaspi2002@gmail.com](diegocaspi2002@gmail.com)
-
-- ⚡ Fun fact **I think Flutter development is so funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
