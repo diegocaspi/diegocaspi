@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Kubernetes and GitOps/Deployment tools**
 
-- 👯 I’m looking to collaborate with people on **backend and Flutter frontend projects**
+- 👯 I’m looking to collaborate with people on **Backend projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/diegocaspi/](https://github.com/diegocaspi/)
-
-- 📫 How to reach me **diegocaspi2002@gmail.com**
+- 👨‍💻 All of my projects will be available at [https://github.com/diegocaspi/](https://github.com/diegocaspi/) (work in progress...)
 
 - 📄 Know about my experiences writing at my email [diegocaspi2002@gmail.com](diegocaspi2002@gmail.com)
 
