@@ -10,11 +10,3 @@ I’m big on automating all the things—preferably in a clean, clever, and Kube
 Microservices architecture? Been there, done that, streamlined it with Kafka, MQTT, and a sprinkle of IoT magic since 2021. I’ve got a soft spot for making complex systems just… work.
 
 When I’m not automating or coding, I’m probably dreaming up ways to automate something else. Welcome to my GitHub playground—where smart solutions and bad puns collide. 🤖✨
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/diegocaspi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegocaspi_" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegocaspi&show_icons=true&theme=onedark&locale=en" alt="diegocaspi" /></p>
-
