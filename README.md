@@ -7,6 +7,4 @@ On the backend side, I’ve wrangled Java (SpringBoot, Quarkus) and NodeJS (Nest
 
 I’m big on automating all the things—preferably in a clean, clever, and Kubernetes-powered way. GitOps? You bet, with tools like ArgoCD making life a lot more fun.
 
-Microservices architecture? Been there, done that, streamlined it with Kafka, MQTT, and a sprinkle of IoT magic since 2021. I’ve got a soft spot for making complex systems just… work.
-
 When I’m not automating or coding, I’m probably dreaming up ways to automate something else. Welcome to my GitHub playground—where smart solutions and bad puns collide. 🤖✨
